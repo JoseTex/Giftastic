@@ -1,0 +1,14 @@
+.centered {
+	margin: 75px;
+  	text-align: center;
+	text-transform: uppercase;
+}
+
+.gifs {
+	display: inline;
+}
+
+.gif {
+	cursor: crosshair;
+}
+
